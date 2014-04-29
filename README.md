@@ -1,7 +1,7 @@
 D3
 ==
 
-D3 list of sortable examples:
+D3 list of all examples:
 
 Source: http://bl.ocks.org/mbostock:
 
